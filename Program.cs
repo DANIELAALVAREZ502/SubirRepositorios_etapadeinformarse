@@ -11,6 +11,7 @@ namespace Repositorios_Ejercicio8
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola Indel");
         }
     }
 }
